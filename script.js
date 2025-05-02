@@ -11,103 +11,103 @@ const tarotCards = [
     },
     {
         name: "2. The High Priestess",
-        image: "images/2. 여사제 카드.jpg",
+        image: "images/2여사제카드.jpg",
         meaning: "직관, 무의식, 여성성"
     },
     {
         name: "3. The Empress",
-        image: "images/3. 여황제 카드.jpg",
+        image: "images/3여황제카드.jpg",
         meaning: "풍요, 모성, 창조성"
     },
     {
         name: "4. The Emperor",
-        image: "images/4. 황제 카드.jpg",
+        image: "images/4황제카드.jpg",
         meaning: "권위, 안정, 리더십"
     },
     {
         name: "5. The Hierophant",
-        image: "images/5. 교황 카드.jpg",
+        image: "images/5교황카드.jpg",
         meaning: "전통, 도덕, 조언"
     },
     {
         name: "6. The Lovers",
-        image: "images/6. 연인 카드.jpg",
+        image: "images/6연인카드.jpg",
         meaning: "사랑, 관계, 조화"
     },
     {
         name: "7. The Chariot",
-        image: "images/7. 전차 카드.jpg",
+        image: "images/7전차카드.jpg",
         meaning: "승리, 추진력, 통제"
     },
     {
         name: "8. Strength",
-        image: "images/8. 힘 카드.jpg",
+        image: "images/8힘카드.jpg",
         meaning: "용기, 인내, 내면의 힘"
     },
     {
         name: "9. The Hermit",
-        image: "images/9. 은둔자 카드.jpg",
+        image: "images/9은둔자카드.jpg",
         meaning: "고독, 탐색, 지혜"
     },
     {
         name: "10. Wheel of Fortune",
-        image: "images/10. 운명의 수레바퀴.jpg",
+        image: "images/10운명의수레바퀴.jpg",
         meaning: "변화, 운명, 흐름"
     },
     {
         name: "11. Justice",
-        image: "images/11. 정의 카드.jpg",
+        image: "images/11정의카드.jpg",
         meaning: "공정함, 진실, 책임"
     },
     {
         name: "12. The Hanged Man",
-        image: "images/12. 행맨 카드.jpg",
+        image: "images/12행맨카드.jpg",
         meaning: "희생, 새로운 시각, 인내"
     },
     {
         name: "13. Death",
-        image: "images/13. 죽음 카드.jpg",
+        image: "images/13죽음카드.jpg",
         meaning: "종말, 변화, 재생"
     },
     {
         name: "14. Temperance",
-        image: "images/14. 절제 카드.jpg",
+        image: "images/14절제카드.jpg",
         meaning: "조화, 균형, 절제"
     },
     {
         name: "15. The Devil",
-        image: "images/15. 악마 카드.jpg",
+        image: "images/15악마카드.jpg",
         meaning: "유혹, 집착, 속박"
     },
     {
         name: "16. The Tower",
-        image: "images/16. 타워 카드.jpg",
+        image: "images/16타워카드.jpg",
         meaning: "충격, 붕괴, 급변"
     },
     {
         name: "17. The Star",
-        image: "images/17. 별 카드.jpg",
+        image: "images/17별카드.jpg",
         meaning: "희망, 치유, 평화"
     },
     {
         name: "18. The Moon",
-        image: "images/18. 달 카드.jpg",
+        image: "images/18달카드.jpg",
         meaning: "불확실성, 직관, 환상"
     },
     {
         name: "19. The Sun",
-        image: "images/19. 태양 카드.jpg",
+        image: "images/19태양카드.jpg",
         meaning: "행복, 성공, 명료함"
     },
     {
         name: "20. Judgment",
-        image: "images/20. 심판 카드.jpg",
+        image: "images/20심판카드.jpg",
         meaning: "부활, 자기 성찰, 용서"
     },
     // 마이너 아르카나 - 완드 (Wands)
     {
         name: "Ace of Wands",
-        image: "images/완드 에이스.jpg",
+        image: "images/완드에이스.jpg",
         meaning: "영감, 새로운 시작, 창의적 에너지"
     },
     {
@@ -157,28 +157,28 @@ const tarotCards = [
     },
     {
         name: "Page of Wands",
-        image: "images/완드 페이지.jpg",
+        image: "images/완드페이지.jpg",
         meaning: "모험, 창의성, 탐색"
     },
     {
         name: "Knight of Wands",
-        image: "images/완드 나이트.jpg",
+        image: "images/완드나이트.jpg",
         meaning: "열정, 추진력, 충동"
     },
     {
         name: "Queen of Wands",
-        image: "images/완드 퀸.jpg",
+        image: "images/완드퀸.jpg",
         meaning: "자신감, 카리스마, 따뜻함"
     },
     {
         name: "King of Wands",
-        image: "images/완드 킹.jpg",    
+        image: "images/완드킹.jpg",    
         meaning: "카리스마, 비전, 영향력"
     },
     // 마이너 아르카나 - 컵 (Cups)
     {
         name: "Ace of Cups",
-        image: "images/컵 에이스.jpg",
+        image: "images/컵에이스.jpg",
         meaning: "사랑의 시작, 감정적 풍요, 열린 마음"
     },
     {
@@ -228,28 +228,28 @@ const tarotCards = [
     },
     {
         name: "Page of Cups",
-        image: "images/컵 페이지.jpg",
+        image: "images/컵페이지.jpg",
         meaning: "상상력, 순수한 감정, 새로운 가능성"
     },
     {
         name: "Knight of Cups",
-        image: "images/컵 나이트.jpg",
+        image: "images/컵나이트.jpg",
         meaning: "로맨스, 매력, 감성적인 접근"
     },
     {
         name: "Queen of Cups",
-        image: "images/컵 퀸.jpg",
+        image: "images/컵퀸.jpg",
         meaning: "공감, 직관, 감정적 통찰력"
     },
     {
         name: "King of Cups",
-        image: "images/컵 킹.jpg",
+        image: "images/컵킹.jpg",
         meaning: "감정 조절, 성숙함, 연민"
     },
     // 마이너 아르카나 - 소드 (Swords)
     {
         name: "Ace of Swords",
-        image: "images/소드 에이스.jpg",
+        image: "images/소드에이스.jpg",
         meaning: "명확성, 진실, 새로운 사고의 시작"
     },
     {
@@ -299,28 +299,28 @@ const tarotCards = [
     },
     {
         name: "Page of Swords",
-        image: "images/소드 페이지.jpg",
+        image: "images/소드페이지.jpg",
         meaning: "호기심, 신중함, 날카로운 사고"
     },
     {
         name: "Knight of Swords",
-        image: "images/소드 나이트.jpg",
+        image: "images/소드나이트.jpg",
         meaning: "급진적 추진력, 결단, 목표 집중"
     },
     {
         name: "Queen of Swords",
-        image: "images/소드 퀸.jpg",
+        image: "images/소드퀸.jpg",
         meaning: "이성, 독립, 직설적 진실"
     },
     {
         name: "King of Swords",
-        image: "images/소드 킹.jpg",
+        image: "images/소드킹.jpg",
         meaning: "지혜, 권위, 논리"
     },
     //마이너 아르카나 - 팬타클 (Pentacles)
     {
         name: "Ace of Pentacles",
-        image: "images/펜타클 에이스.jpg",
+        image: "images/펜타클에이스.jpg",
         meaning: "새로운 기회, 번영, 현실적 시작"
     },
     {
@@ -370,22 +370,22 @@ const tarotCards = [
     },
     {
         name: "Page of Pentacles",
-        image: "images/펜타클 페이지.jpg",
+        image: "images/펜타클페이지.jpg",
         meaning: "학습, 기초, 실용적 기회"
     },
     {
         name: "Knight of Pentacles",
-        image: "images/펜타클 나이트.jpg",
+        image: "images/펜타클나이트.jpg",
         meaning: "성실함, 신중함, 꾸준함"
     },
     {
         name: "Queen of Pentacles",
-        image: "images/펜타클 퀸.jpg",
+        image: "images/펜타클퀸.jpg",
         meaning: "현실적 배려, 풍요, 가정적 안정"
     },
     {
         name: "King of Pentacles",
-        image: "images/펜타클 킹.jpg",
+        image: "images/펜타클킹.jpg",
         meaning: "재정적 성공, 신뢰성, 권위"
     }, 
 ];
