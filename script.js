@@ -1,27 +1,27 @@
 const tarotCards = [
     {
         name: "0. The Fool",
-        image: "/images/0. 바보 카드.jpg",
+        image: "images/0바보카드.jpg",
         meaning: "새로운 시작, 자유, 순수함"
     },
     {
         name: "1. The Magician",
-        image: "/images/1. 마법사 카드.jpg",
+        image: "images/1마법사카드.jpg",
         meaning: "의지, 창조력, 자원 활용"
     },
     {
         name: "2. The High Priestess",
-        image: "/images/2. 여사제 카드.jpg",
+        image: "images/2. 여사제 카드.jpg",
         meaning: "직관, 무의식, 여성성"
     },
     {
         name: "3. The Empress",
-        image: "/images/3. 여황제 카드.jpg",
+        image: "images/3. 여황제 카드.jpg",
         meaning: "풍요, 모성, 창조성"
     },
     {
         name: "4. The Emperor",
-        image: "/images/4. 황제 카드.jpg",
+        image: "images/4. 황제 카드.jpg",
         meaning: "권위, 안정, 리더십"
     },
     {
@@ -390,7 +390,6 @@ const tarotCards = [
     }, 
 ];
  
-
 
 document.addEventListener("DOMContentLoaded", () => {
     const button = document.getElementById("btn");
