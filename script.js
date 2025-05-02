@@ -112,47 +112,47 @@ const tarotCards = [
     },
     {
         name: "Two of Wands",
-        image: "images/완드2.jpg",
+        image: "images/2완드.jpg",
         meaning: "계획, 선택, 미래에 대한 비전"
     },
     {
         name: "Three of Wands",
-        image: "images/완드3.jpg",
+        image: "images/3완드.jpg",
         meaning: "확장, 진척, 준비된 행동"
     },
     {
         name: "Four of Wands",
-        image: "images/완드4.jpg",
+        image: "images/4완드.jpg",
         meaning: "축하, 안정, 공동체"
     },
     {
         name: "Five of Wands",
-        image: "images/완드5.jpg",
+        image: "images/5완드.jpg",
         meaning: "경쟁, 갈등, 마찰"
     },
     {
         name: "Six of Wands",
-        image: "images/완드6.jpg",
+        image: "images/6완드.jpg",
         meaning: "승리, 인정, 진보"
     },
     {
         name: "Seven of Wands",
-        image: "images/완드7.jpg",
+        image: "images/7완드.jpg",
         meaning: "방어, 입장 고수, 도전"
     },
     {
         name: "Eight of Wands",
-        image: "images/완드8.jpg",
+        image: "images/8완드.jpg",
         meaning: "빠른 진행, 소통, 기회"
     },
     {
         name: "Nine of Wands",
-        image: "images/완드9.jpg",
+        image: "images/9완드.jpg",
         meaning: "지속, 회복력, 방어 태세"
     },
     {
         name: "Ten of Wands",
-        image: "images/완드10.jpg",
+        image: "images/10완드.jpg",
         meaning: "과중한 책임, 부담, 압박감"
     },
     {
@@ -183,47 +183,47 @@ const tarotCards = [
     },
     {
         name: "Two of Cups",
-        image: "images/컵2.jpg",
+        image: "images/2컵.jpg",
         meaning: "연결, 파트너십, 조화"
     },
     {
         name: "Three of Cups",
-        image: "images/컵3.jpg",
+        image: "images/3컵.jpg",
         meaning: "우정, 축하, 커뮤니티"
     },
     {
         name: "Four of Cups",
-        image: "images/컵4.jpg",
+        image: "images/4컵.jpg",
         meaning: "무관심, 지루함, 내면 집중"
     },
     {
         name: "Five of Cups",
-        image: "images/컵5.jpg",
+        image: "images/5컵.jpg",
         meaning: "상실, 슬픔, 후회"
     },
     {
         name: "Six of Cups",
-        image: "images/컵6.jpg",
+        image: "images/6컵.jpg",
         meaning: "향수, 어린 시절, 순수함"
     },
     {
         name: "Seven of Cups",
-        image: "images/컵7.jpg",
+        image: "images/7컵.jpg",
         meaning: "환상, 선택, 망설임"
     },
     {
         name: "Eight of Cups",
-        image: "images/컵8.jpg",
+        image: "images/8컵.jpg",
         meaning: "이별, 변화, 더 나은 것을 향한 여정"
     },
     {
         name: "Nine of Cups",
-        image: "images/컵9.jpg",
+        image: "images/9컵.jpg",
         meaning: "감정적 만족, 성취, 기쁨"
     },
     {
         name: "Ten of Cups",
-        image: "images/컵10.jpg",
+        image: "images/10컵.jpg",
         meaning: "가족, 행복, 감정의 완성"
     },
     {
@@ -254,47 +254,47 @@ const tarotCards = [
     },
     {
         name: "Two of Swords",
-        image: "images/소드2.jpg",
+        image: "images/2소드.jpg",
         meaning: "결정 회피, 균형, 교착 상태"
     },
     {
         name: "Three of Swords",
-        image: "images/소드3.jpg",
+        image: "images/3소드.jpg",
         meaning: "상실, 슬픔, 마음의 상처"
     },
     {
         name: "Four of Swords",
-        image: "images/소드4.jpg",
+        image: "images/4소드.jpg",
         meaning: "휴식, 회복, 내면 성찰"
     },
     {
         name: "Five of Swords",
-        image: "images/소드5.jpg",
+        image: "images/5소드.jpg",
         meaning: "갈등, 패배, 이기심"
     },
     {
         name: "Six of Swords",
-        image: "images/소드6.jpg",
+        image: "images/6소드.jpg",
         meaning: "이동, 회복, 더 나은 곳으로 향함"
     },
     {
         name: "Seven of Swords",
-        image: "images/소드7.jpg",
+        image: "images/7소드.jpg",
         meaning: "속임수, 전략, 혼자 해결하려는 태도"
     },
     {
         name: "Eight of Swords",
-        image: "images/소드8.jpg",
+        image: "images/8소드.jpg",
         meaning: "속박, 무기력, 정신적 제한"
     },
     {
         name: "Nine of Swords",
-        image: "images/소드9.jpg",
+        image: "images/9소드.jpg",
         meaning: "불면, 걱정, 죄책감"
     },
     {
         name: "Ten of Swords",
-        image: "images/소드10.jpg",
+        image: "images/소드9.jpg",
         meaning: "종말, 배신, 고통"
     },
     {
@@ -325,47 +325,47 @@ const tarotCards = [
     },
     {
         name: "Two of Pentacles",
-        image: "images/펜타클2.jpg",
+        image: "images/2펜타클.jpg",
         meaning: "균형, 적응, 시간 관리"
     },
     {
         name: "Three of Pentacles",
-        image: "images/펜타클3.jpg",
+        image: "images/3펜타클.jpg",
         meaning: "협력, 기술, 공동 작업"
     },
     {
         name: "Four of Pentacles",
-        image: "images/펜타클4.jpg",
+        image: "images/4펜타클.jpg",
         meaning: "소유욕, 안정성, 방어적 태도"
     },
     {
         name: "Five of Pentacles",
-        image: "images/펜타클5.jpg",
+        image: "images/5펜타클.jpg",
         meaning: "결핍, 고립, 재정적 어려움"
     },
     {
         name: "Six of Pentacles",
-        image: "images/펜타클6.jpg",
+        image: "images/6펜타클.jpg",
         meaning: "나눔, 균형, 도움 받기"
     },
     {
         name: "Seven of Pentacles",
-        image: "images/펜타클7.jpg",
+        image: "images/7펜타클.jpg",
         meaning: "인내, 재검토, 기다림"
     },
     {
         name: "Eight of Pentacles",
-        image: "images/펜타클8.jpg",
+        image: "images/8펜타클.jpg",
         meaning: "기술 연마, 노력, 헌신"
     },
     {
         name: "Nine of Pentacles",
-        image: "images/펜타클9.jpg",
+        image: "images/9펜타클.jpg",
         meaning: "자립, 풍요, 만족"
     },
     {
         name: "Ten of Pentacles",
-        image: "images/펜타클10.jpg",
+        image: "images/10펜타클.jpg",
         meaning: "가족, 유산, 장기적 안정"
     },
     {
